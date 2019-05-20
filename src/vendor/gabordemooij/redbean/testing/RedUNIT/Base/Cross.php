@@ -248,7 +248,7 @@ class Cross extends Base
 		}
 
 		//even postgres sucks. Only SQLite knows how to handle this.
-		//I dont give a fuck whether it's an SQL standard or not, it should just work.
+		//I dont give a butterfly whether it's an SQL standard or not, it should just work.
 		if ( $this->currentlyActiveDriverID === 'sqlite' ) {
 			$buddyE = $buddyE->fresh();
 			asrt( count( $buddyE->withCondition(' linked_by > 0 ')->sharedBuddyList ), 1 );
