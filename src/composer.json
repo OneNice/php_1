@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "simplecms\\": "vendor/simplecms/core",
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "gabordemooij/redbean": "dev-master",
+    "vlucas/valitron": "^1.4"
+  }
+}

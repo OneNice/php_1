@@ -1,0 +1,21 @@
+a:2:{s:4:"data";s:522:"<li>
+    <a href="?id=1">Кино</a>
+            <ul>
+            <li>
+    <a href="?id=9">Ужасы</a>
+    </li>        </ul>
+    </li><li>
+    <a href="?id=2">Театр</a>
+    </li><li>
+    <a href="?id=3">Концерты</a>
+    </li><li>
+    <a href="?id=4">Вечеринки</a>
+    </li><li>
+    <a href="?id=5">Выставки</a>
+    </li><li>
+    <a href="?id=6">Цирк</a>
+    </li><li>
+    <a href="?id=7">Детям</a>
+    </li><li>
+    <a href="?id=8">Другое</a>
+    </li>";s:8:"end_time";i:1551852332;}
